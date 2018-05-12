@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28627#Incentives-to-the-Study-of-the-Ancient-Period-of-American-HistorySociety-at-its-forty-second-_
 gutenberg_issued: '2009-04-27'
 gutenberg_type: Text
 identifiers:
