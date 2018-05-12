@@ -1,0 +1,34 @@
+_repo: Incentives-to-the-Study-of-the-Ancient-Period-of-American-HistorySociety-at-its-forty-second-__28627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_issued: '2009-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28627'
+  lccn: 02012699
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians -- Origin'
+- !lcsh 'America -- Antiquities'
+- !lcc 'E011'
+title: 'Incentives to the Study of the Ancient Period of American History
+
+  An address, delivered before the New York Historical
+
+  Society, at its forty-second anniversary, 17th November 1846'
+url: http://www.gutenberg.org/ebooks/28627
